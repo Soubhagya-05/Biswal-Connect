@@ -1,87 +1,90 @@
-Biswal Connect
+Biswal Connect – README
+📌 Overview
 
-Overview
+Biswal Connect is an AI-powered, text-based chatbot that delivers intelligent and real-time responses to user queries. It provides a seamless conversational experience using advanced AI models and real-time data fetching.
+The project is built with a React + JavaScript frontend and a Python backend.
 
-Biswal Connect is an AI-powered text-based chatbot designed to provide intelligent and real-time responses to user queries. It aims to offer a seamless conversational experience, leveraging advanced AI models and real-time data fetching. The chatbot is built using JavaScript and React, with backend support in Python.
+🚀 Features
 
-Features
+AI-Powered Responses
+Integrated with Gemini AI API for smart and context-aware interactions.
 
-AI-Powered Responses: Integrated with Gemini AI API for intelligent interactions.
+Real-Time Information
+Fetches up-to-date information using the Wikipedia API.
 
-Real-Time Data Fetching: Uses Wikipedia for up-to-date information.
+Minimalistic Chat Interface
+Clean ChatGPT-style UI with Biswal Connect branding.
 
-Optimized UI: Minimalistic ChatGPT-style interface with Biswal Connect branding.
+Responsive Design
+Works smoothly across laptops, tablets, and mobile devices.
 
-Multi-Device Compatibility: Flexible design that supports all phones and laptops.
+Lightweight Performance
+No sidebar search storage, ensuring faster and optimized performance.
 
-No Sidebar for Search Storage: Optimized for performance without storing recent searches.
+Voice Support
+Uses ResponsiveVoice API for speech-enabled interaction.
 
-Voice Support: Uses ResponsiveVoice for an enhanced user experience.
-
-
-Technology Stack
-
-Frontend: React, JavaScript
-
-Backend: Python
-
-API Integration: Gemini AI API, Wikipedia API, ResponsiveVoice API
-
-
-Installation
-
+🛠️ Technology Stack
+Layer	Technology Used
+Frontend	React, JavaScript
+Backend	Python
+APIs	Gemini AI API, Wikipedia API, ResponsiveVoice API
+⚙️ Installation Guide
 Prerequisites
 
 Node.js and npm installed
 
-Python (for backend services)
-
+Python installed (for backend)
 
 Steps to Run
 
-1. Clone the Repository:
+Clone the repository
 
 git clone https://github.com/your-repo/biswal-connect.git
 cd biswal-connect
 
-
-2. Install Dependencies:
+Install frontend dependencies
 
 npm install
 
-
-3. Start the Frontend:
+Start the frontend
 
 npm start
 
-
-4. Run the Backend (if applicable):
+Run the backend (if applicable)
 
 python backend.py
+🤝 Contribution
 
+Contributions are welcome!
+To contribute:
 
+Fork the repository
 
-Contribution
+Create a new branch
 
-Contributions are welcome! If you’d like to contribute, please fork the repository and submit a pull request.
+Make your changes
 
-Future Plans
+Submit a pull request
 
-Expand Biswal Connect’s capabilities with more AI features.
+🔮 Future Plans
 
-Enhance UI/UX for better user interaction.
+Add more advanced AI capabilities
 
-Introduce multi-language support.
+Improve UI/UX for better interaction
 
-Partner with tech giants like Google for broader reach.
+Introduce multi-language support
 
+Explore partnerships with companies like Google for broader reach
 
-Contact
+📬 Contact
 
-For queries, reach out at soubhagyabiswal999@gmail.com or connect via LinkedIn.
+For queries or collaboration:
 
+Email: soubhagyabiswal999@gmail.com
 
----
+LinkedIn: Connect with the developer
 
-Developed & maintained by Soubhagya Biswal
+👨‍💻 Developer
 
+Developed & Maintained by: Soubhagya Biswal
